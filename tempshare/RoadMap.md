@@ -12,8 +12,9 @@ This roadmap outlines the prioritized epics and user stories for Sphynx PMS deve
 
 *   **Goal:** Ensure a fully functional, reliable reservation system supporting various booking types.
 *   **User Stories:**
-    *   **Title:** Group Booking Management (Size: 5)
+    *   **Title:** Group Booking Management (Size: 5) 
         *   As a Hotel Manager, I want to manage group bookings, including room blocks and separate folios, so that I can handle group reservations efficiently.
+           * DONE 
     *   **Title:** Direct Booking Handling (Size: 3)
         *   As a Front Desk Agent, I want to easily handle direct bookings (phone, email, walk-in) with rate adjustments and room allocation, so that I can manage non-online reservations.
     *   **Title:** Refine Direct Booking Engine (Size: 3)
